@@ -1,0 +1,12 @@
+.img{
+  width: 250px;
+  height:250px;
+  border-radius:70%;
+}
+.profile{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  border: 5px solid black;
+}
